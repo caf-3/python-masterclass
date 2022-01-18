@@ -1,0 +1,8 @@
+{
+    "code-runner.executorMap": {
+        "python": "python -u",
+    },
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "bold",
+    "editor.fontSize": 14
+}
