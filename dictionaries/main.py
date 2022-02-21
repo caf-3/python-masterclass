@@ -5,7 +5,7 @@ capitals = { 'Portugal': 'Lisbon', 'Spain': 'Madrid', 'Mozambique': 'Maputo', 'B
 
 capitals.update({'Germany': 'Berlin'})
 capitals.update({ 'Mozambique': 'Maputo Provincia'})
-
+capitals.pop("Spain")
 # print(capitals.items())
 # print(capitals['Portugal'])
 # print(capitals['Angola'])
